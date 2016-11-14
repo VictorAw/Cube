@@ -1,6 +1,6 @@
 # Cube
 
-[Live link][live]
+[Live link to be inserted later]
 
 Cube is an interactive front-end Javascript project demonstrating WebGL.
 
