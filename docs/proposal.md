@@ -37,8 +37,11 @@ In addition to the tools listed above, there will be a script file for:
 ## Implementation Timeline
 
 **Day 1**: Set up Sylvester and an entry javascript file along with an html file. Get the canvas rendering a basic cube.
+
 **Day 2**: Get shaders working and add in vertices for the walls and entryway of the room. Start collision detection.
+
 **Day 3**: Finish collision detection, physics, and controls. Add environmental sound effects using the Web Audio API
+
 **Day 4**: Finishing touches and polish
 
 ## Bonus Features
